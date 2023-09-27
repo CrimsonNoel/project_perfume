@@ -1,6 +1,6 @@
 # project_perfume
-향수 쇼핑몰 프로젝트
-kic project
+향수 쇼핑몰 프로젝트 <br>
+kic project <br>
 개발환경 및 언어 <br>
 Oracle <br>
 Tomcat 9.0v <br>
